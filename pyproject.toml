@@ -1,0 +1,19 @@
+[project]
+name = "genetic_algorithm"
+version = "0.1.0"
+description = "Генетичний алгоритм"
+authors = [
+    { name="Костя Киндалюк", email="your@email.com" }
+]
+dependencies = ["sqlalchemy",
+"mysqlclient",
+"alembic",
+"ttkbootstrap",
+"pytest"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]

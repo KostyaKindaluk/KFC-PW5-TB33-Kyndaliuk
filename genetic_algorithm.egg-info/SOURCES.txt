@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+database/__init__.py
+database/connection.py
+database/models.py
+genetic_algorithm.egg-info/PKG-INFO
+genetic_algorithm.egg-info/SOURCES.txt
+genetic_algorithm.egg-info/dependency_links.txt
+genetic_algorithm.egg-info/requires.txt
+genetic_algorithm.egg-info/top_level.txt
+gui/__init__.py
+gui/main_window.py
+gui/selection_settings_window.py
+gui/task_solution_window.py
+logic/__init__.py
+migrations/env.py
+tests/__init__.py

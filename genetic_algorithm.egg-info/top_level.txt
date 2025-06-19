@@ -1,0 +1,5 @@
+database
+gui
+logic
+migrations
+tests
